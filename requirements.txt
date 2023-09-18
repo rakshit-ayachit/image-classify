@@ -4,3 +4,4 @@ tensorflow
 Pillow
 Python-IO
 requests
+tflite-model-maker
